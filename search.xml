@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>写论文的前瞻准备</title>
+      <link href="/2022/12/30/%E5%86%99%E8%AE%BA%E6%96%87%E7%9A%84%E5%89%8D%E7%9E%BB%E5%87%86%E5%A4%87/"/>
+      <url>/2022/12/30/%E5%86%99%E8%AE%BA%E6%96%87%E7%9A%84%E5%89%8D%E7%9E%BB%E5%87%86%E5%A4%87/</url>
+      
+        <content type="html"><![CDATA[<h1>鸽鸽鸽</h1><h2 id="安排计划">安排计划</h2><p>这是我在两周之前定的计划，原谅我开始计划这么久还没有开始，恰巧进入了懈怠期😟。</p><p><img src="https://cdn.staticaly.com/gh/ckyFi9zero/pic_bed1@main/pic_bed/QQ%E5%9B%BE%E7%89%8720221230155127.292l62g8ge1w.webp" alt="计划"></p><h2 id="主要思路">主要思路</h2><ol><li>前言。（分析为啥要去雾，和为什么需要地貌识别，地貌识别可以模仿的来，读读我发给大家的文献包，至于去雾可以结合地貌识别和去雾的必要性来写，总之，这一段就是循序渐进的说明研究这个事有意义，目前的研究内容都还不够，因此需要你们继续推进这方面的研究）</li><li>模型基础，包括2.1去雾的理论模型，2.2地貌识别的理论模型</li><li>方法的具体化，就是把第二节中的理论具体化为某种方法。</li><li>实验的验证，在论文中实验是配角，他是用来验证理论的。</li></ol><blockquote><p>先模仿IJARS那篇写，尽量用数学的语言来表达，而不是口语，因为你的读者对象是研究人员，所以信息量要足</p></blockquote><h2 id="后话">后话</h2><p><img src="https://cdn.staticaly.com/gh/ckyFi9zero/pic_bed1@main/pic_bed/QQ%E5%9B%BE%E7%89%8720221231141650.1pc9o8004f34.webp" alt="老师夸我啦"></p><p>记录复制一下老师的原话：</p><blockquote><p>做研究有3个重要的方面，1会做，2会写，3会表达。起步时候是被卡到会做上，然后难点就是会写，最后会意识到表达的重要性。这次就是练习撰写。</p></blockquote><p>最后被夸啊哈哈哈哈真的很激动！</p><h2 id="🕊">🕊</h2><p>这是暑假里本来打算系统学习的深度学习的计划图(从公众号DASOU白嫖的)，有点可惜没有全部完成。先记录在这里吧。<br><img src="https://cdn.staticaly.com/gh/ckyFi9zero/pic_bed1@main/pic_bed/DASOU%E5%8E%9F%E5%88%9B%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%BB%8E%E9%9B%B6%E5%85%A5%E9%97%A8%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.5cgfp7rrb8s0.webp" alt="深度学习计划图"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 聊聊生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于Markdown的基本语法</title>
       <link href="/2022/12/29/%E5%85%B3%E4%BA%8EMarkdown%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/"/>
       <url>/2022/12/29/%E5%85%B3%E4%BA%8EMarkdown%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</url>
